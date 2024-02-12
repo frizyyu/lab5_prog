@@ -1,0 +1,12 @@
+update 1
+asd
+50
+33
+5
+5
+JAZZ
+ads
+asd
+show
+update 1 {"name": "NOTATEST", "coordinates": {"x": 28, "y": 47.2}, "numberOfParticipants": 123, "albumsCount": 50, "genre": "JAZZ", "studio": {"name": "qwe", "address": "https..."}}
+show
